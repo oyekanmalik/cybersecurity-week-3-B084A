@@ -32,4 +32,5 @@ Key takeaway: This exercise was a great reminder of why strong, unique passwords
 
 #CyberSecurity #PasswordCracking #JohnTheRipper #EthicalHacking #InfoSec 
 
-![screenshot]()
+![screenshot](Screenshot%202026.png)
+![screenshot](Screenshot%20(37).png)
